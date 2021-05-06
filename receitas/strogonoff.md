@@ -1,2 +1,4 @@
-# receita strogonoff
+# receita strogonoff :chicken:
+
+
 
